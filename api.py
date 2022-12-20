@@ -10,9 +10,7 @@
     # - localhost/productos/id (GET)
     # - localhost/productos/id (PUT)
     # - localhost/productos/id (DELETE)
-
-
-
+    
 from flask import Flask, jsonify, request
 
 api = Flask(__name__)
