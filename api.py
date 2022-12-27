@@ -19,7 +19,19 @@ productos = [
         'id': 1,
         'nombre': 'Donuts',
         'descripcion': 'rellenas de chocolate',
-        'valor': 2000
+        'valor': 1990
+    },
+    {
+        'id': 2,
+        'nombre': 'Cafe Fuerte',
+        'descripcion': 'Con granos seleccionados, tostado y molido.',
+        'valor': 1600
+    },
+    {
+        'id': 3,
+        'nombre': 'Torta',
+        'descripcion': 'De chocolate y manjar',
+        'valor': 2500
     }
 ]
 
